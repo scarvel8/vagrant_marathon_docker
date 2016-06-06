@@ -1,0 +1,11 @@
+---
+:hierarchy:
+        - common
+
+:backends:
+        - yaml
+        - puppet
+
+:yaml:
+        :datadir:
+            /etc/puppet

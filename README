@@ -1,1 +1,4 @@
 Initial Commit - vagrant files to install a marathon, mesos, docker cluster
+
+todo: quorum should be calculated (not a fixed 2)
+todo: puppet works on first run, not two
